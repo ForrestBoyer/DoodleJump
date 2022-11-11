@@ -1,8 +1,8 @@
 /**
- * @(#)UserPanel.java
+ * @(#)DoodlePanel.java
  *
  *
- * @author 
+ * @author Forrest Boyer
  * @version 1.00 2019/3/5
  */
 
